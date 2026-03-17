@@ -1,265 +1,287 @@
+# 👋 Hi, I'm SUMIT GAIKWAD
 <div align="center">
-  
-# 🚀 WELCOME TO MY DIGITAL SPACE 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SUMIT%20GAIKWAD&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Passionate%20Web%20%26%20Python%20Developer&descAlignY=51&descSize=18" width="100%"/>
+### A passionate Web and Python Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:2b1055,100:00f5ff&text=SUMIT%20GAIKWAD&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20and%20Python%20Developer&descAlignY=58" alt="banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Science+Explorer+%F0%9F%93%8A;Building+The+Future+With+Code+%E2%9A%A1)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=Profile%20views&color=0e75b6&style=flat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Sumit+Gaikwad+%F0%9F%91%8B;Web+Developer+%7C+Python+Developer;Building+MDM+-+Connect;Learning+DSA+%2B+Data+Science;Open+for+Web%2FDS%2FML+Collaborations)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-![Profile Views](https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/SUMITGAIKWAD90?style=for-the-badge&color=blue&labelColor=1a1a1a)](https://github.com/SUMITGAIKWAD90)
-[![GitHub stars](https://img.shields.io/github/stars/SUMITGAIKWAD90?style=for-the-badge&color=yellow&labelColor=1a1a1a)](https://github.com/SUMITGAIKWAD90)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=PROFILE+VIEWS&style=for-the-badge&color=00e5ff" alt="views"/>
+  <img src="https://img.shields.io/github/followers/SUMITGAIKWAD90?style=for-the-badge&color=7C4DFF&labelColor=0D1117" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/SUMITGAIKWAD90?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=39FF14&labelColor=0D1117" alt="stars"/>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
+## ⚡ Hero Section
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-```python
-class SumitGaikwad:
-    def __init__(self):
-        self.username = "SUMITGAIKWAD90"
-        self.name = "Sumit Gaikwad"
-        self.role = "Web & Python Developer"
-        self.current_work = "MDM - Connect"
-        self.learning = ["DSA", "Data Science"]
-        self.code = ["Python", "JavaScript", "C++", "C#", "PHP"]
-        self.interests = ["Web Dev", "ML", "Data Science"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+- 🔭 I’m currently working on **MDM - Connect** 
+- 🌱 I’m currently learning **DSA, Data Science**
+- 👯 I’m looking to collaborate on **Web / Data Science / Machine Learning Projects**
+- 📫 Reach me at: **om1929390@gmail.com**
+```bash
+┌──(sumit㉿github)-[~/profile]
+└─$ ./init_profile.sh
 
-me = SumitGaikwad()
-me.say_hi()
+Name        : SUMIT GAIKWAD
+Role        : Passionate Web and Python Developer
+Currently   : Building MDM - Connect
+Learning    : DSA, Data Science
+Open To     : Web / Data Science / Machine Learning Projects
+Status      : Always shipping better versions 🚀
 ```
 
-🔭 **Currently Working On:** MDM - Connect  
-🌱 **Currently Learning:** Data Structures & Algorithms, Data Science  
-👯 **Looking to Collaborate On:** Web Development | Data Science | Machine Learning Projects  
-💬 **Ask Me About:** Web Development, Python, Machine Learning  
-⚡ **Fun Fact:** I turn coffee into code ☕➡️💻
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ---
 
-## 🛠️ Tech Arsenal
+## 🌐 Connect with me:
+## 🧠 About Me
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CanvasJS](https://img.shields.io/badge/CanvasJS-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 Machine Learning & Data Science</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Technologies</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sumitggaikwad/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://www.instagram.com/itz__sumiit09)
+<div align="center">
 
 ---
+| 🔹 | Information |
+|---|---|
+| 💼 | **Currently working on:** `MDM - Connect` |
+| 🌱 | **Currently learning:** `DSA` · `Data Science` |
+| 🤝 | **Looking to collaborate on:** `Web` · `Data Science` · `Machine Learning Projects` |
+| 📫 | **Email:** `om1929390@gmail.com` |
 
+## 🛠️ Languages, Libraries And Tools:
+</div>
+
+<p align="left">
+<details>
+<summary><b>🛰️ Expand Developer Notes</b></summary>
+<br/>
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+- I enjoy building sleek UI + practical backend flows.
+- I like solving real-world problems with code and data.
+- I focus on writing maintainable, scalable, and clean projects.
+
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+  </a>
+</details>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+---
+
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![CanvasJS](https://img.shields.io/badge/CanvasJS-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
+
+### 🤖 ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=ffffff)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=4C72B0)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+
+</div>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+---
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+## 🌌 Featured Projects
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+<div align="center">
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+### `⚙️ Premium Project Deck (Placeholders)`
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+</div>
+
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+<details>
+<summary><b>🚀 Open Project Layout</b></summary>
+<br/>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+### 1) MDM - Connect
+- **Type:** Web Platform
+- **Stack:** React · Node.js · Firebase
+- **Description:** A collaboration-focused platform with modern workflows and scalable structure.
+- **Repo:** `https://github.com/SUMITGAIKWAD90/<repo-name>`
+- **Live:** `https://<demo-link>`
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+### 2) Data Insight Engine
+- **Type:** Data Science
+- **Stack:** Python · Pandas · Matplotlib · Seaborn
+- **Description:** End-to-end data analysis pipeline with visual reporting.
+- **Repo:** `https://github.com/SUMITGAIKWAD90/<repo-name>`
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+### 3) ML Predictor Suite
+- **Type:** Machine Learning
+- **Stack:** Python · TensorFlow · PyTorch
+- **Description:** Model training, evaluation, and deployment-ready experimentation.
+- **Repo:** `https://github.com/SUMITGAIKWAD90/<repo-name>`
+
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  </a>
+</details>
+
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+---
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
 ## 📊 GitHub Analytics Dashboard
 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMITGAIKWAD90&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7&border_radius=10" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITGAIKWAD90&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10&langs_count=10" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUMITGAIKWAD90&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&radius=10" alt="Contribution Graph" width="48%" />
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITGAIKWAD90&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="langs"/>
 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+<img height="180em" src="https://streak-stats.demolab.com?user=SUMITGAIKWAD90&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 </div>
 
-<div align="center">
-  
-### 🏆 GitHub Trophies
-  
-<img src="https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+  </a>
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚀 Project 1</h3>
-<div align="center">  
-<a href="https://github.com/SUMITGAIKWAD90" target="_blank">
-<img src="https://img.shields.io/badge/REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-00F7F7?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Demo"/>
-</a>
-</div>
-<p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-<p>Description of your amazing project goes here. Showcase your best work!</p>
-</td>
-<td width="50%">
-<h3 align="center">🤖 Project 2</h3>
-<div align="center">  
-<a href="https://github.com/SUMITGAIKWAD90" target="_blank">
-<img src="https://img.shields.io/badge/REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-00F7F7?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Demo"/>
-</a>
-</div>
-<p><strong>Tech Stack:</strong> Python, TensorFlow, Flask</p>
-<p>Your ML/Data Science project description. Highlight key achievements!</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">💻 Project 3</h3>
-<div align="center">  
-<a href="https://github.com/SUMITGAIKWAD90" target="_blank">
-<img src="https://img.shields.io/badge/REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-00F7F7?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Demo"/>
-</a>
-</div>
-<p><strong>Tech Stack:</strong> Django, PostgreSQL, Docker</p>
-<p>Another impressive project showcasing your full-stack abilities!</p>
-</td>
-<td width="50%">
-<h3 align="center">📊 Project 4</h3>
-<div align="center">  
-<a href="https://github.com/SUMITGAIKWAD90" target="_blank">
-<img src="https://img.shields.io/badge/REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/DEMO-00F7F7?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Demo"/>
-</a>
-</div>
-<p><strong>Tech Stack:</strong> Pandas, Matplotlib, Jupyter</p>
-<p>Data analysis project with insightful visualizations and findings!</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
 ## 📈 Contribution Graph
 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUMITGAIKWAD90&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true&radius=10)
 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SUMITGAIKWAD90&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SUMITGAIKWAD90)
+
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  </a>
+</p>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
-## 💭 Developer Quote
+## 🏆 GitHub Trophies
+## 💬 Futuristic Developer Quote
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
+> **"I don't just write code — I architect momentum for the future."** ⚡
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
+## 🌐 Connect With Me
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SUMITGAIKWAD90&show_icons=true&locale=en&layout=compact)
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om1929390@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitggaikwad/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz__sumiit09)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUMITGAIKWAD90)
-
-<br>
-
-### 💬 Let's Build Something Amazing Together!
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-**"First, solve the problem. Then, write the code." - John Johnson**
+[![Email](https://img.shields.io/badge/Email-om1929390%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:om1929390@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Gaikwad-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sumitggaikwad/)
+[![Instagram](https://img.shields.io/badge/Instagram-itz__sumiit09-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/itz__sumiit09)
+[![GitHub](https://img.shields.io/badge/GitHub-SUMITGAIKWAD90-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/SUMITGAIKWAD90)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 ---
 
 <div align="center">
 
-### ⚡ Show some ❤️ by starring some of the repositories! ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**© 2025 Sumit Gaikwad | Built with 💙 and lots of ☕**
+### ⚡ Build • Learn • Optimize • Repeat
 
 </div>
